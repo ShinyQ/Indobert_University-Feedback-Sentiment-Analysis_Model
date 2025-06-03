@@ -69,24 +69,6 @@ This model was integrated into [`a Django-based sentiment dashboard application`
 - Admin tools for filtering, deleting, and exporting data
 
 
-## 🧪 Functional Testing & UAT
-
-### Functional testing (black-box)
-
-All modules passed 100% of test cases:
-- Login  
-- Dashboard with filtering  
-- Crawler with Twitter API  
-- Data management (filter/export/delete)
-
-### UAT with Likert scale (3 users)
-
-| Category           | Average Score |
-|--------------------|---------------|
-| Usability          | 88%           |
-| Information Quality| 82%           |
-| Interaction Quality| 91%           |
-
 ## 📄 Citation
 
 If you use this model or its components, please cite:
