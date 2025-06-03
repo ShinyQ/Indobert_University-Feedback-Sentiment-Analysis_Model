@@ -57,17 +57,17 @@ The model is built upon [`indobert-base-p2`](https://huggingface.co/indobenchmar
 | Precision | 87%   |
 | Recall    | 89%   |
 
-
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/6157d43f013078aa50b55498/XHIlRUdocdHHG578yaKN7.png)
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/6157d43f013078aa50b55498/pJo7M_qjPoNMyZ6WbfbA4.png)
 
 
 ## 💻 Deployment Context
 
-This model was integrated into a Django-based sentiment dashboard application with:
+This model was integrated into [`a Django-based sentiment dashboard application`](https://github.com/ShinyQ/Django_Thesis-Sentiboard-University-Sentiment-App) with:
 - A custom Twitter crawler
 - Real-time sentiment classification
 - Wordclouds and sentiment breakdowns by time period
 - Admin tools for filtering, deleting, and exporting data
+
 
 ## 🧪 Functional Testing & UAT
 
